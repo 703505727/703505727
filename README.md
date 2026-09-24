@@ -10,4 +10,4 @@ Currently exploring:
 
 ### Tech
 
-TypeScript · JavaScript · React · Node.js
+TypeScript | JavaScript | React | Node.js
