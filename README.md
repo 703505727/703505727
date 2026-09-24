@@ -1,13 +1,5 @@
-# Hi, I'm Aron
+# Aaron Deng
 
-I'm a frontend engineer interested in building clear and reliable user experiences.
+Full-stack developer.
 
-Currently exploring:
-
-- Agentic UI and Generative UI
-- AI infrastructure and agent systems
-- Open-source collaboration
-
-### Tech
-
-TypeScript | JavaScript | React | Node.js
+`TypeScript` · `JavaScript` · `React` · `Node.js`
